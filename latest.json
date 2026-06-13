@@ -2,7 +2,7 @@
   "version": "0.0.4",
   "buildNumber": 3,
   "releaseDate": "2026-06-13",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "changelog": [
     "Тест системы автообновления",
     "Система автоматического обновления приложения",
