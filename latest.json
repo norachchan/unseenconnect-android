@@ -1,13 +1,13 @@
 {
-  "version": "0.0.3",
-  "buildNumber": 2,
+  "version": "0.0.4",
+  "buildNumber": 3,
   "releaseDate": "2026-06-13",
   "forceUpdate": false,
   "changelog": [
+    "Тест системы автообновления",
     "Система автоматического обновления приложения",
-    "Блокировка авторотации для Android",
-    "Исправлены предупреждения анализатора"
+    "Блокировка авторотации для Android"
   ],
   "downloadUrl": "https://github.com/norachchan/unseenconnect-android/releases/latest/download/UnseenConnect.apk",
-  "sha256": "ea0c1799af0b9ac0c21218b1d21ad67a5b26e1017b26791c5d2a55c2ac1317a3"
+  "sha256": "d556a34cc4f431eebe25d62d12f84730fca9163ec131e2ebfef5a02b46f23810"
 }
