@@ -2,7 +2,7 @@
   "version": "0.0.8",
   "buildNumber": 8,
   "releaseDate": "2026-09-13",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "changelog": [
     "Новое: профили маршрутизации — создание, редактирование, копирование и удаление",
     "Новое: редактор профиля — правила Direct / Proxy / Block, порядок, DNS и geo",
